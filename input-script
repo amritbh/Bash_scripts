@@ -1,0 +1,12 @@
+#!/bin/bash
+#Author
+# Date
+# Descri
+a=`hostname`
+echo Hello, My Server name is $a 
+echo 
+echo What is your name?
+read b 
+echo 
+echo Hello  $b 
+echo 

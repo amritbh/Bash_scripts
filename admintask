@@ -1,0 +1,17 @@
+# !/bin/bash
+# Author: Amrit Bhattarai
+# Date: 08/23/2019
+# Description: This scripts will run basic Administration Tasks
+# Date Modified: 08/23/2019
+
+echo 
+echo This script will run basic administrative Commands
+
+
+echo
+top | head -10 #prints only only first 10 lines
+df -h
+free -m
+uptime
+iostat
+

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#Author: Amrit Bhattarai
+#Date Created: 08/23/2019
+#Description: Run Basic LInux Tasks
+#Date Modified: 08/23/2019
+
+echo
+echo This script will run a basic tasks
+echo
+pwd
+ls
+whoami
+date
+cal
+touch a b c
